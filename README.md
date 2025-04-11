@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/gauravk95/audio-visualizer-android.svg?branch=master)](https://travis-ci.org/gauravk95/audio-visualizer-android) 
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Gaurav%20Kumar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7204 )
 [![Android Weekly]( https://img.shields.io/badge/Android%20Weekly-%23352-blue.svg )]( http://androidweekly.net/issues/issue-352 )
+[![](https://jitpack.io/v/Vanhk/Audio-Visualizer.svg)](https://jitpack.io/#Vanhk/Audio-Visualizer)
+
 
 A light-weight and easy-to-use Audio Visualizer for Android using the Android Canvas. 
 
